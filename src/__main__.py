@@ -6,7 +6,7 @@ and serves as the main entry point for the application.
 Usage:
     python3 -m src - execute this program (when run from project root).
 
-Author: Russell Feldhausen russfeld@ksu.edu
+Author: Olivia Ford orford@mnu.edu
 Version: 0.1
 """
 

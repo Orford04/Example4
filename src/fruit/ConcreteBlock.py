@@ -1,6 +1,6 @@
 """ConcreteBlock class.
 
-Author: Russell Feldhausen russfeld@ksu.edu
+Author: Olivia Ford orford@mnu.edu
 Version: 0.1
 """
 
